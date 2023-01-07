@@ -89,3 +89,7 @@ footer p{
     text-align: center;
     font-size: 10px;
 }
+.box{
+    padding: 0px;
+    margin: 0px;
+}
